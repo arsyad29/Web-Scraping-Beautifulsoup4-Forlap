@@ -10,4 +10,4 @@ Step by step:
 
 
 here the result:
-https://github.com/arsyad29/Web-Scraping-Beautifulsoup4-Forlap/blob/main/Result.png
+![alt text](https://github.com/arsyad29/Web-Scraping-Beautifulsoup4-Forlap/blob/main/Result.png)
