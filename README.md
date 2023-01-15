@@ -7,3 +7,7 @@ Step by step:
 2. Get_Biodata
 3. Processing
 4. Get_All_Data
+
+
+here the result:
+https://github.com/arsyad29/Web-Scraping-Beautifulsoup4-Forlap/blob/main/Result.png
